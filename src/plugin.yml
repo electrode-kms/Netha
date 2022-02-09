@@ -1,0 +1,14 @@
+name: Netha
+author: enzokms
+version: 0.1
+description: Netha Plugin
+main: fr.enzokms.Main
+commands:
+ test:
+ spawn:
+ tpa:
+ sethome:
+ home:
+ delhome:
+  description: Command
+  
